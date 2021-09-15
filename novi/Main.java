@@ -12,7 +12,6 @@ public class Main {
 
         System.out.println("Welcome to the higher and lower game");
 
-
         game.playGame();
     }
 }
