@@ -26,7 +26,7 @@ public class HigherLowerGame {
 
         // Het zetten van het aantal gespeelde beurten op 0
 
-        int numberOfGamesPlayed = minNumber + 1;
+        int numberOfGamesPlayed = minNumber;
 
         // Start
 
