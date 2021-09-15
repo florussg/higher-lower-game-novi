@@ -10,6 +10,9 @@ public class Main {
         Scanner inputScanner = new Scanner(System.in);
         HigherLowerGame game = new HigherLowerGame(inputScanner);
 
+        System.out.println("Welcome to the higher and lower game");
+
+
         game.playGame();
     }
 }
